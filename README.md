@@ -33,6 +33,7 @@ data1=data.copy()
 data1=data1.drop(["sl_no","salary"],axis=1)#Removes the specified row or column
 data1.head()
 ```
+<img width="850" height="156" alt="image" src="https://github.com/user-attachments/assets/b44e12a4-8c6d-48d2-88ce-423343568401" />
 
 ```
 data1.isnull().sum()
