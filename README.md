@@ -105,10 +105,5 @@ print(classification_report1)
 ```
 <img width="432" height="137" alt="image" src="https://github.com/user-attachments/assets/211106d8-2d46-45fc-9eba-64382025cb1b" />
 
-
-## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-
-
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
